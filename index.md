@@ -6,3 +6,7 @@
 ```
 $ python my_script.py
 ```
+
+- [ ] 1st task
+- [ ] 2nd task
+- [ ] final task
